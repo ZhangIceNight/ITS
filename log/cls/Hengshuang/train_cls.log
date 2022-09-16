@@ -1,0 +1,101 @@
+[2022-09-15 13:40:21,451][__main__][INFO] - Load dataset ...
+[2022-09-15 13:40:24,995][__main__][INFO] - No existing model, starting training from scratch...
+[2022-09-15 13:40:24,997][__main__][INFO] - Start training...
+[2022-09-15 13:40:24,997][__main__][INFO] - Epoch 1 (1/200):
+[2022-09-15 13:42:50,472][__main__][INFO] - Load dataset ...
+[2022-09-15 13:42:53,961][__main__][INFO] - No existing model, starting training from scratch...
+[2022-09-15 13:42:53,962][__main__][INFO] - Start training...
+[2022-09-15 13:42:53,962][__main__][INFO] - Epoch 1 (1/200):
+[2022-09-15 13:47:06,810][__main__][INFO] - Train Instance Accuracy: 0.356872
+[2022-09-15 13:47:06,811][__main__][INFO] - loss: 2.520458
+[2022-09-15 13:47:52,097][__main__][INFO] - Test Instance Accuracy: 0.479839, Class Accuracy: 0.327405
+[2022-09-15 13:47:52,098][__main__][INFO] - Best Instance Accuracy: 0.479839, Class Accuracy: 0.327405
+[2022-09-15 13:47:52,098][__main__][INFO] - Save model...
+[2022-09-15 13:47:52,098][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 13:47:52,231][__main__][INFO] - Epoch 2 (2/200):
+[2022-09-15 13:52:02,666][__main__][INFO] - Train Instance Accuracy: 0.475430
+[2022-09-15 13:52:02,667][__main__][INFO] - loss: 2.941201
+[2022-09-15 13:52:47,093][__main__][INFO] - Test Instance Accuracy: 0.603226, Class Accuracy: 0.488120
+[2022-09-15 13:52:47,094][__main__][INFO] - Best Instance Accuracy: 0.603226, Class Accuracy: 0.488120
+[2022-09-15 13:52:47,094][__main__][INFO] - Save model...
+[2022-09-15 13:52:47,094][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 13:52:47,625][__main__][INFO] - Epoch 3 (3/200):
+[2022-09-15 13:57:00,463][__main__][INFO] - Train Instance Accuracy: 0.544508
+[2022-09-15 13:57:00,463][__main__][INFO] - loss: 2.137852
+[2022-09-15 13:57:45,226][__main__][INFO] - Test Instance Accuracy: 0.675403, Class Accuracy: 0.583551
+[2022-09-15 13:57:45,227][__main__][INFO] - Best Instance Accuracy: 0.675403, Class Accuracy: 0.583551
+[2022-09-15 13:57:45,227][__main__][INFO] - Save model...
+[2022-09-15 13:57:45,227][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 13:57:45,625][__main__][INFO] - Epoch 4 (4/200):
+[2022-09-15 14:01:55,904][__main__][INFO] - Train Instance Accuracy: 0.591670
+[2022-09-15 14:01:55,906][__main__][INFO] - loss: 2.345455
+[2022-09-15 14:02:40,571][__main__][INFO] - Test Instance Accuracy: 0.752016, Class Accuracy: 0.665077
+[2022-09-15 14:02:40,571][__main__][INFO] - Best Instance Accuracy: 0.752016, Class Accuracy: 0.665077
+[2022-09-15 14:02:40,572][__main__][INFO] - Save model...
+[2022-09-15 14:02:40,572][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:02:40,975][__main__][INFO] - Epoch 5 (5/200):
+[2022-09-15 14:06:51,060][__main__][INFO] - Train Instance Accuracy: 0.625196
+[2022-09-15 14:06:51,061][__main__][INFO] - loss: 2.521578
+[2022-09-15 14:07:35,225][__main__][INFO] - Test Instance Accuracy: 0.752419, Class Accuracy: 0.676982
+[2022-09-15 14:07:35,226][__main__][INFO] - Best Instance Accuracy: 0.752419, Class Accuracy: 0.676982
+[2022-09-15 14:07:35,226][__main__][INFO] - Save model...
+[2022-09-15 14:07:35,226][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:07:35,624][__main__][INFO] - Epoch 6 (6/200):
+[2022-09-15 14:11:45,797][__main__][INFO] - Train Instance Accuracy: 0.651842
+[2022-09-15 14:11:45,798][__main__][INFO] - loss: 0.909988
+[2022-09-15 14:12:30,948][__main__][INFO] - Test Instance Accuracy: 0.755645, Class Accuracy: 0.690931
+[2022-09-15 14:12:30,949][__main__][INFO] - Best Instance Accuracy: 0.755645, Class Accuracy: 0.690931
+[2022-09-15 14:12:30,949][__main__][INFO] - Save model...
+[2022-09-15 14:12:30,949][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:12:31,358][__main__][INFO] - Epoch 7 (7/200):
+[2022-09-15 14:16:41,521][__main__][INFO] - Train Instance Accuracy: 0.673977
+[2022-09-15 14:16:41,522][__main__][INFO] - loss: 0.863137
+[2022-09-15 14:17:25,960][__main__][INFO] - Test Instance Accuracy: 0.779839, Class Accuracy: 0.717196
+[2022-09-15 14:17:25,961][__main__][INFO] - Best Instance Accuracy: 0.779839, Class Accuracy: 0.717196
+[2022-09-15 14:17:25,961][__main__][INFO] - Save model...
+[2022-09-15 14:17:25,961][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:17:26,378][__main__][INFO] - Epoch 8 (8/200):
+[2022-09-15 14:21:36,102][__main__][INFO] - Train Instance Accuracy: 0.692040
+[2022-09-15 14:21:36,102][__main__][INFO] - loss: 0.134399
+[2022-09-15 14:22:20,994][__main__][INFO] - Test Instance Accuracy: 0.760484, Class Accuracy: 0.728871
+[2022-09-15 14:22:20,995][__main__][INFO] - Best Instance Accuracy: 0.779839, Class Accuracy: 0.728871
+[2022-09-15 14:22:20,996][__main__][INFO] - Epoch 9 (9/200):
+[2022-09-15 14:26:30,986][__main__][INFO] - Train Instance Accuracy: 0.706729
+[2022-09-15 14:26:30,987][__main__][INFO] - loss: 1.092290
+[2022-09-15 14:27:15,871][__main__][INFO] - Test Instance Accuracy: 0.820161, Class Accuracy: 0.753569
+[2022-09-15 14:27:15,872][__main__][INFO] - Best Instance Accuracy: 0.820161, Class Accuracy: 0.753569
+[2022-09-15 14:27:15,872][__main__][INFO] - Save model...
+[2022-09-15 14:27:15,872][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:27:16,285][__main__][INFO] - Epoch 10 (10/200):
+[2022-09-15 14:31:24,586][__main__][INFO] - Train Instance Accuracy: 0.719423
+[2022-09-15 14:31:24,587][__main__][INFO] - loss: 0.607291
+[2022-09-15 14:32:08,929][__main__][INFO] - Test Instance Accuracy: 0.829839, Class Accuracy: 0.771108
+[2022-09-15 14:32:08,930][__main__][INFO] - Best Instance Accuracy: 0.829839, Class Accuracy: 0.771108
+[2022-09-15 14:32:08,930][__main__][INFO] - Save model...
+[2022-09-15 14:32:08,930][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:32:09,426][__main__][INFO] - Epoch 11 (11/200):
+[2022-09-15 14:36:18,273][__main__][INFO] - Train Instance Accuracy: 0.730781
+[2022-09-15 14:36:18,274][__main__][INFO] - loss: 0.059550
+[2022-09-15 14:37:03,185][__main__][INFO] - Test Instance Accuracy: 0.822177, Class Accuracy: 0.753872
+[2022-09-15 14:37:03,185][__main__][INFO] - Best Instance Accuracy: 0.829839, Class Accuracy: 0.771108
+[2022-09-15 14:37:03,188][__main__][INFO] - Epoch 12 (12/200):
+[2022-09-15 14:41:11,966][__main__][INFO] - Train Instance Accuracy: 0.740869
+[2022-09-15 14:41:11,967][__main__][INFO] - loss: 1.072645
+[2022-09-15 14:41:57,390][__main__][INFO] - Test Instance Accuracy: 0.861694, Class Accuracy: 0.790276
+[2022-09-15 14:41:57,390][__main__][INFO] - Best Instance Accuracy: 0.861694, Class Accuracy: 0.790276
+[2022-09-15 14:41:57,391][__main__][INFO] - Save model...
+[2022-09-15 14:41:57,391][__main__][INFO] - Saving at best_model.pth
+[2022-09-15 14:41:57,735][__main__][INFO] - Epoch 13 (13/200):
+[2022-09-16 09:35:12,380][__main__][INFO] - Load dataset ...
+[2022-09-16 09:38:34,001][__main__][INFO] - Load dataset ...
+[2022-09-16 09:42:44,795][__main__][INFO] - Use pretrain model
+[2022-09-16 09:42:44,796][__main__][INFO] - Start training...
+[2022-09-16 09:42:44,797][__main__][INFO] - Epoch 1 (13/200):
+[2022-09-16 10:44:45,447][__main__][INFO] - Load dataset ...
+[2022-09-16 10:44:49,082][__main__][INFO] - Use pretrain model
+[2022-09-16 10:44:49,084][__main__][INFO] - Start training...
+[2022-09-16 10:44:49,084][__main__][INFO] - Epoch 1 (13/200):
+[2022-09-16 10:45:14,942][__main__][INFO] - Load dataset ...
+[2022-09-16 10:45:18,561][__main__][INFO] - No existing model, starting training from scratch...
+[2022-09-16 10:45:18,564][__main__][INFO] - Start training...
+[2022-09-16 10:45:18,564][__main__][INFO] - Epoch 1 (1/200):
